@@ -1,4 +1,4 @@
-# Textbook to Storybooks
+# Talesmith
 
 ## 📜 Overview
 This Streamlit app converts historical textbook content into engaging fictional yet historically accurate stories using Google's Gemini AI. It also provides an offline text-to-speech feature to narrate the generated stories.
