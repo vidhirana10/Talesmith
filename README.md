@@ -15,9 +15,9 @@ This Streamlit app converts historical textbook content into engaging fictional 
 
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/your-repo/textbook-to-storybooks.git
-cd textbook-to-storybooks
-```
+git clone https://github.com/vidhirana10/Talesmith.git
+cd Talesmith
+``
 
 ### 2️⃣ Create and Activate a Virtual Environment (Recommended)
 ```sh
